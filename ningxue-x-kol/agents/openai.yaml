@@ -1,0 +1,4 @@
+name: ningxue-x-kol
+display_name: "Ningxue X KOL"
+short_description: "Chinese X/Twitter strategy and ghostwriting for @ningxueSamA."
+default_prompt: "为 @ningxueSamA 生成今日中文 X/Twitter 内容：3-5 个选题、短帖、thread 大纲、reply/quote 草稿，并保持 AI 全链、crypto、跨市场趋势复盘风格。"
